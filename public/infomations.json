@@ -1,0 +1,86 @@
+[
+    {
+      "company-name": "Acme Corporation",
+      "job-title": "Software Developer",
+      "category": "Information Technology",
+      "position": "Full-time",
+      "location": "San Francisco, CA",
+      "salary": "$100,000 - $120,000 per year",
+      "service-logo": "https://png.pngtree.com/png-clipart/20200709/original/pngtree-repairing-service-logo-png-image_3562607.jpg",
+      "service-title":"Account $ Finance",
+      "job-available" : "500 jobs available",
+      "job-description": "We are seeking a skilled software engineer to join our team and help develop innovative software solutions. The ideal candidate will have experience with Java and Python, and be able to work in a fast-paced, collaborative environment.",
+      "job-responsibilities": [
+        "Design and develop software applications using Java and Python",
+        "Collaborate with cross-functional teams to deliver high-quality software products",
+        "Write and maintain technical documentation",
+        "Troubleshoot and debug software issues",
+        "Stay up-to-date with emerging trends and technologies in software development"
+      ],
+      "educational-requirements": "Bachelor's or Master's degree in Computer Science or a related field",
+      "experience": "3+ years of experience in software development"
+    },
+    {
+      "company-name": "XYZ Inc.",
+      "job-title": "Marketing Manager",
+      "category": "Marketing",
+      "position": "Full-time",
+      "location": "New York, NY",
+      "salary": "$80,000 - $100,000 per year",
+      "service-logo": "https://png.pngtree.com/png-clipart/20200709/original/pngtree-repairing-service-logo-png-image_3562607.jpg",
+      "service-title":"Account $ Finance",
+      "job-available" : "500 jobs available",
+      "job-description": "We are looking for a talented and experienced Marketing Manager to develop and execute effective marketing campaigns for our products. The ideal candidate should have a proven track record in developing and executing successful marketing campaigns, strong project management skills, and excellent communication skills.",
+      "job-responsibilities": [
+        "Develop and execute marketing campaigns to promote our products",
+        "Manage and coordinate marketing activities with cross-functional teams",
+        "Conduct market research to identify customer needs and preferences",
+        "Monitor and report on the effectiveness of marketing campaigns",
+        "Stay up-to-date with emerging trends and technologies in marketing"
+      ],
+      "educational-requirements": "Bachelor's or Master's degree in Marketing or a related field",
+      "experience": "5+ years of experience in marketing"
+    },
+    {
+      "company-name": "ABC Corp.",
+      "job-title": "Financial Analyst",
+      "category": "Finance",
+      "position": "Full-time",
+      "location": "Chicago, IL",
+      "salary": "$70,000 - $90,000 per year",
+      "service-logo": "https://png.pngtree.com/png-clipart/20200709/original/pngtree-repairing-service-logo-png-image_3562607.jpg",
+      "service-title":"Account $ Finance",
+      "job-available" : "500 jobs available",
+      "job-description": "We are seeking a Financial Analyst to provide financial planning and analysis support to our organization. The ideal candidate should have a strong analytical mind, excellent communication skills, and be able to work independently as well as part of a team.",
+      "job-responsibilities": [
+        "Conduct financial analysis and modeling to support business decisions",
+        "Prepare financial reports and presentations for management and stakeholders",
+        "Assist in the development of budgets and forecasts",
+        "Monitor and analyze financial performance",
+        "Identify opportunities for cost savings and process improvements"
+      ],
+      "educational-requirements": "Bachelor's or Master's degree in Finance or a related field",
+      "experience": "3+ years of experience in financial analysis"
+    },
+    {
+        "company-name": "ABefg Corp.",
+        "job-title": "Financial Analyst",
+        "category": "Finance",
+        "position": "Full-time",
+        "location": "Chicago, IL",
+        "salary": "$70,000 - $90,000 per year",
+        "service-logo": "https://png.pngtree.com/png-clipart/20200709/original/pngtree-repairing-service-logo-png-image_3562607.jpg",
+        "service-title":"Account $ Finance",
+        "job-available" : "500 jobs available",
+        "job-description": "We are seeking a Financial Analyst to provide financial planning and analysis support to our organization. The ideal candidate should have a strong analytical mind, excellent communication skills, and be able to work independently as well as part of a team.",
+        "job-responsibilities": [
+          "Conduct financial analysis and modeling to support business decisions",
+          "Prepare financial reports and presentations for management and stakeholders",
+          "Assist in the development of budgets and forecasts",
+          "Monitor and analyze financial performance",
+          "Identify opportunities for cost savings and process improvements"
+        ],
+        "educational-requirements": "Bachelor's or Master's degree in Finance or a related field",
+        "experience": "3+ years of experience in financial analysis"
+      }
+]
